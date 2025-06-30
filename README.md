@@ -2,7 +2,9 @@
 
 #### Maven Markets is a fictional e-commerce company with over 10,000 customers, 1500+ products, 24 stores, 109 regions across US, Canada, and Mexico. The company had recorded over 250,000 transactions from 1997 to 1998, including both years. 
 
+
 ![E-Commerce Data Power BI Business Insights](https://github.com/aparna-kiran/e-commerce_dataanalysis/blob/main/ECommerceFinalReport.png "Final Power BI Dashboard")
+
 
 The steps involved in the analysis:
 1. Data Extraction: Gathering all the data to PowerQuery.
@@ -19,5 +21,7 @@ Impactful insights from the dashboard:
 4. Throughout the year 1998, mostly the last week of every month saw the least revenue generation. 
 5. Ebony is the top brand in all three top stores of Maven Market – Hidalgo, Merida, and Vancouver. 
 
+
 ![E-Commerce Data Power BI Business Insights](https://github.com/aparna-kiran/e-commerce_dataanalysis/blob/main/BusinessInsights1.png "Power BI Business Insights1")
+
 
